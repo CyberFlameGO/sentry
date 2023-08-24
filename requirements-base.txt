@@ -64,7 +64,7 @@ unidiff==0.6.0
 urllib3==1.24.2
 # See if we can remove LDFLAGS from lib.sh
 # https://github.com/getsentry/sentry/pull/30094
-uWSGI==2.0.19.1
+uWSGI==2.0.22
 zstandard==0.14.1
 
 msgpack==1.0.0
